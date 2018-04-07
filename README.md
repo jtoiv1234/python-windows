@@ -1,2 +1,2 @@
 # python-windows
-Python module to control window objects
+Python module for controlling window objects on Windows OS.
